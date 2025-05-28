@@ -15,7 +15,7 @@
 - **Frontend:** Next.js 14, TypeScript, Tailwind CSS
 - **Authentication:** NextAuth.js
 - **Rich Text Editor:** React Quill / Slate.js (planned)
-- **Database:** (TBD – likely PostgreSQL or MongoDB)
+- **Database:**  MongoDB
 - **Deployment:** Vercel (Planned)
 
 ---
