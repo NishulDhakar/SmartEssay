@@ -1,36 +1,45 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🧠 SmartEssay
 
-## Getting Started
+**SmartEssay** is a smart and intuitive essay writing platform designed to help students prepare for placement rounds. It provides structure, templates, and tools to enhance writing quality and confidence.
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 🚧 Status
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+> 🛠️ **Currently under development**
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+---
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## ⚙️ Tech Stack
 
-## Learn More
+- **Frontend:** Next.js 14, TypeScript, Tailwind CSS
+- **Authentication:** NextAuth.js
+- **Rich Text Editor:** React Quill / Slate.js (planned)
+- **Database:** (TBD – likely PostgreSQL or MongoDB)
+- **Deployment:** Vercel (Planned)
 
-To learn more about Next.js, take a look at the following resources:
+---
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## ✨ Key Features (Planned)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+- ✍️ Essay prompt collection  
+- 📄 Rich text editor with word count  
+- 💾 Save, edit, delete essays  
+- ✅ Grammar/style suggestions  
+- 📊 Writing improvement analytics  
+- 📤 Export as PDF or shareable link  
+- 🔒 Secure user authentication  
+- 📱 Responsive mobile-friendly design  
 
-## Deploy on Vercel
+---
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 📌 Note
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+SmartEssay is being actively developed as a real-world tool to help students improve their essay writing skills, especially for placement preparation.  
+The goal is to provide a structured, AI-enhanced environment to write confidently, clearly, and effectively under time constraints.
+
+
+## 🔗 Author
+
+Built by **Nishul Dhakar** 🚀  
+[LinkedIn](https://www.linkedin.com/) • [Portfolio](nishul.dev) • [Twitter](https://x.com/NishulDhakar)
