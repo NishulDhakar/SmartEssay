@@ -33,11 +33,13 @@
 
 ---
 
+
 ## 📌 Note
 
-SmartEssay is being actively developed as a real-world tool to help students improve their essay writing skills, especially for placement preparation.  
-The goal is to provide a structured, AI-enhanced environment to write confidently, clearly, and effectively under time constraints.
+This project is a placement preparation initiative.
+Stay tuned for regular updates and exciting new features to help you succeed!
 
+---
 
 ## 🔗 Author
 
