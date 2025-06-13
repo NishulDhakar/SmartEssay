@@ -12,7 +12,7 @@
 
 ## ⚙️ Tech Stack
 
-- **Frontend:** Next.js 14, TypeScript, Tailwind CSS
+- **Frontend:** Next.js, TypeScript, Tailwind CSS
 - **Authentication:** NextAuth.js
 - **Rich Text Editor:** React Quill / Slate.js (planned)
 - **Database:**  MongoDB
