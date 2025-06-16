@@ -12,15 +12,14 @@
 
 ## ⚙️ Tech Stack
 
-- **Frontend:** Next.js, TypeScript, Tailwind CSS
-- **Authentication:** NextAuth.js
-- **Rich Text Editor:** React Quill / Slate.js (planned)
-- **Database:**  MongoDB
-- **Deployment:** Vercel (Planned)
+- **Frontend:** Next.js, TypeScript, Tailwind CSS, React Quill / Slate.js  
+- **Authentication:** NextAuth.js  
+- **Backend:** Next.js API Routes, MongoDB
+- **Deployment:** Vercel  
 
 ---
 
-## ✨ Key Features (Planned)
+## ✨ Key Features 
 
 - ✍️ Essay prompt collection  
 - 📄 Rich text editor with word count  
